@@ -20,7 +20,7 @@
  * FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
  * DEALINGS IN THE SOFTWARE.
  *
- * Based on code from mail driver wrapper by Luc Verhaegen <libv@codethink.co.uk>
+ * Based on code from lima driver wrapper by Luc Verhaegen <libv@codethink.co.uk>
  * and libsegfault by Jerome Glisse <j.glisse@gmail.com>
  */
 
